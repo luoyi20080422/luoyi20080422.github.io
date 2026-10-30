@@ -1,12 +1,12 @@
 // 只需修改这里，网站会自动更新。文字请保留引号和逗号。
 const portfolio = {
   name: "罗毅",
-  shortName: "ly",
-  initials: "ly",
+  shortName: "LY",
+  initials: "LY",
   title: "Python 开发与数据采集",
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "持续充电中",
-  location: "中国 · 北京",
+  location: "中国 · 广东",
   email: "kaiyang@example.com",
   github: "https://github.com/kaiyang-teacher",
   csdn: "https://www.csdn.net/",
